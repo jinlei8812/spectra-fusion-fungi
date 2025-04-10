@@ -1,2 +1,2 @@
 # spectra-fusion-fungi
-Temperature-dependent SERS spectral fusion method for precise fungal identification
+A temperature-induced SERS spectral fusion strategy for  identification of nine clinical fungal pathogens.Cultured fungal cells were collected, washed, resuspended in PBS, and incubated at five different temperatures (37°C, 45°C, 50°C, 60°C, and 70°C) for 1 hour prior to SERS analysis. Notably, data-level fusion of spectra acquired at 37°C, 45°C, 60°C, and 70°C, followed by SoftMax-based classification, achieved 100% accuracy for both laboratory and clinical isolates. For further information,please contact to me: chemph-jin@zju.edu.cn.
